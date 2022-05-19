@@ -1,0 +1,3 @@
+* {margin: 0; padding: 0;}
+#picSet {border: 5px solid blue; width: 1440px; height: 540px; position: relative; overflow: hidden; margin: 0 auto;}
+#picSet img {border: 2px solid red; position: absolute; top: 0; transition: left 1s;}
